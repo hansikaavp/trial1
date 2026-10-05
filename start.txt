@@ -1,0 +1,4 @@
+Purpose of git:
+>version control-keeps track of changes in a project.
+>collaboration-allows developers to work on the same project.
+ 
